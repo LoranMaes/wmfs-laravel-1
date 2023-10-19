@@ -2,14 +2,6 @@
 
 ## Installation instructions
 
-### Cloning the repo on your system
-
-- Install [git](https://git-scm.com/downloads) and run from your terminal/cmd
-
-```shell
-git clone https://github.com/mjoris/workshops-wmfs-laravel.git
-```
-
 ### Running the code
 
 - Install [git](https://git-scm.com/downloads) and [Docker Desktop](https://www.docker.com/products/docker-desktop).
@@ -17,7 +9,7 @@ git clone https://github.com/mjoris/workshops-wmfs-laravel.git
 - Run from your terminal/cmd
 
 ```shell
-git clone https://gitlab.com/ikdoeict/loran.maes/2223wmfs-laravel.git
+git clone https://github.com/LoranMaes/wmfs-laravel-1.git
 ```
 
 - When Docker is up and running, run from your terminal/cmd
